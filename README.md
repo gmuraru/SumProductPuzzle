@@ -16,6 +16,7 @@ Two players are given the following informations.
 3. 2 <= x <= y <= 99
 
 Dialogue between the players:
+
 1: Mr. P: I do not know the numbers.
 
 2: Mr. S: I knew you didn’t know. I don’t know either.
